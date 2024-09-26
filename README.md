@@ -1,2 +1,8 @@
-# Maestria_Computo_Estadistico
-Maestria en Computo Estadistico CIMAT Monterrey 2024-2026
+# Maestria en Computo Estadistico 
+CIMAT Monterrey 2024-2026
+
+## Primer Semestre
+
+# Inferencia Estadistica 
+# Algebra Matricial
+# Programacion y Analisis de Algoritmos
